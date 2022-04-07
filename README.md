@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on MachineLearning, NLP projects.
 - 📫 How to reach me email: einsteinmunachiso@gmail.com
 - LinkedIn: https://www.linkedin.com/in/einstein-ebereonwu-51a906167/
+- Writer on Medium. Feel free to check out my articles
 - Medium: https://medium.com/@einsteinmunachiso
 
 <!---
