@@ -29,6 +29,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best ways to come up with DataScience projects as a beginner | intermediate.](https://medium.com/@einsteinmunachiso/the-best-ways-to-come-up-with-datascience-projects-as-a-beginner-intermediate-367e05a999f2)
 - [How to predict flight prices with Python (XGBoost, Linear Regression…)](https://medium.com/@einsteinmunachiso/how-to-predict-flight-prices-with-python-xgboost-linear-regression-be2ea731595e)
 <!-- BLOG-POST-LIST:END -->
 
