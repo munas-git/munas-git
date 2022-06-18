@@ -1,12 +1,13 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Ebereonwu Einstein Munachiso <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height = "30"/>
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, 
+# I'm Einstein Munachiso Ebereonwu <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height = "30"/>
 
-- 🌱 I’m currently learning everything MachineLearning related I find interesting.
+- 🌱 I’m currently growing my DataScience skills - ML/NLP.
 
-- 👯 I’m looking to collaborate with other DataScientists so I can grow
+- 👯 I’m looking to collaborate with other DataScientists to use AI to change the world for better.
 
-- 🥅 2022 Goals: Learn more of what data can help humans achieve
+- 🥅 2022 Goals: Build useful ML projects.
 
-- 📫 How to reach me [mail](mailto:einsteinmunachiso@gmail.com)
+- 📫 How to reach me [mail](mailto:einsteinmunachiso@gmail.com).
 
 - ⚡ Fun fact: I love listening to music, watching series, swimming and working out.
 
