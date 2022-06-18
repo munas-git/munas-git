@@ -1,4 +1,4 @@
-# Hi there, I'm Ebereonwu Einstein Munachiso 👋 
+# Hi there, I'm Ebereonwu Einstein Munachiso <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 - 🌱 I’m currently learning everything MachineLearning related I find interesting.
 
