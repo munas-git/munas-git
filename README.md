@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with other DataScientists to use AI to change the world for better.
 
-- 🥅 2022 Goals: Build useful ML projects.
+- 🥅 2022 Goals: Build as much ML projects as possible in order to learn more.
 
 - 📫 How to reach me [mail](mailto:einsteinmunachiso@gmail.com).
 
