@@ -43,3 +43,4 @@
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munas-git&show_icons=true&locale=en" alt="munas-git" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=munas-git&show_icons=true&theme=ADD_THEME_HERE" width="400">
