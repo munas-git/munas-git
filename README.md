@@ -1,9 +1,9 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-**I'm Einstein Munachiso Ebereonwu**
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
+### I'm Einstein Munachiso Ebereonwu:
 
-- 🌱 I’m currently growing my DataScience skills - ML/NLP.
+- 🌱 Currently growing my DataScience skills - ML/NLP.
 
-- 👯 I’m looking to collaborate with other DataScientists to use AI to change the world for better.
+- 👯 Looking to collaborate with other DataScientists to use AI to change the world for better.
 
 - 🥅 2022 Goals: Build as much ML projects as possible in order to learn more.
 
