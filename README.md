@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-## I'm Einstein Munachiso Ebereonwu <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height = "30"/>
+**I'm Einstein Munachiso Ebereonwu**
 
 - 🌱 I’m currently growing my DataScience skills - ML/NLP.
 
