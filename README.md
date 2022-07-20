@@ -5,12 +5,12 @@
 
 - 👯 Looking to collaborate with other DataScientists to build amazing projects.
 
-- 🥅 2022 Goals: Build as much ML projects as possible in order to learn more.
+- 🥅 2022 Goals: Build as much end-to-end ML projects as possible in order to learn more.
 
 - 📫 How to reach me [mail](mailto:einsteinmunachiso@gmail.com).
 
 - ⚡ Fun facts:
-  - I'm constantly learning from others and using such new knwlege to work better on myself and projects.
+  - I'm constantly learning from others and using such new knowledge to work better on myself and projects.
   - I code with music almost all the time (except when facing a though bug or designinhg a complex logic 😢).
   - I have a passion for sharing acquired knowledge through basic concepts in order to make learning easier for others.
 
