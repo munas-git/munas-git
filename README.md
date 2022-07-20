@@ -1,5 +1,5 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
-### I'm Einstein Munachiso Ebereonwu:
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20%" height="20%" />
+## I'm Einstein Munachiso Ebereonwu:
 
 - 🌱 Currently growing my DataScience skills - ML/NLP.
 
