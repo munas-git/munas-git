@@ -11,7 +11,7 @@
 
 - ⚡ Fun facts:
   - I'm constantly learning from others and using such new knowledge to work better on myself and projects.
-  - I code with music almost all the time (except when facing a though bug or designing a complex logic 😢).
+  - I code with music almost all the time (except when facing a though bug or building/implementing a complex logic 😢).
   - I have a passion for sharing acquired knowledge through basic concepts in order to make learning easier for others.
 
 ### Connect with me:
