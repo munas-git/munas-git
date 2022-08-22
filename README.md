@@ -3,24 +3,24 @@
 
 - 🌱 Currently growing my DataScience skills - ML/NLP, as well as Full stack (front end with HTML, CSS and a bit of JS, Back end with python - Flask) for model integration and deployment.
 
-- 👯 Looking to collaborate with other DataScientists to build amazing projects.
+- 👯 Looking to collaborate with other DataScientists and SoftwareEngineers to build amazing solutions.
 
-- 🥅 2022 Goals: Build as much end-to-end ML projects as possible in order to learn more.
+- 🥅 2022 Goals: Build as much end-to-end ML projects as possible in order to learn and contribute more to the society.
 
 - 📫 How to reach me [mail](mailto:einsteinmunachiso@gmail.com).
 
 - ⚡ Fun facts:
   - I'm constantly learning from others and using such new knowledge to work better on myself and projects.
-  - I code with music almost all the time (except when facing a though bug or building/implementing a complex logic 😢).
+  - I code with music almost all the time (except when facing a though bug or building/implementing complex logics 😢).
   - I have a passion for sharing acquired knowledge through basic concepts in order to make learning easier for others.
 
-### Connect with me:
+### Connect with me 🤝:
 
 <a href="https://twitter.com/einsteinmuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguduabraham" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/einstein-ebereonwu-51a906167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham onyedikachi ogudu" height="30" width="40" /></a>
 
 
-### Languages and Tools:
+### Languages and Tools 👨‍💻:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -33,7 +33,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Articles For You 📕
 
 <!-- BLOG-POST-LIST:START -->
 - [Building The Perfect Machine Learning Project: Steps to follow](https://medium.com/@einsteinmunachiso/building-the-perfect-machine-learning-project-steps-to-follow-197a49650aad)
