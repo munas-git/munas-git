@@ -41,7 +41,7 @@
 - [How to predict flight prices with Python (XGBoost, Linear Regression…)](https://medium.com/@einsteinmunachiso/how-to-predict-flight-prices-with-python-xgboost-linear-regression-be2ea731595e)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@einsteinmunachiso)
+➡️ [more articles...](https://medium.com/@einsteinmunachiso)
 
 ---
 
