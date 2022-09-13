@@ -36,8 +36,8 @@
 ### 📕 Latest Articles For You 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping with MS Excel and Python: Static Site Contents.](https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85)
 - [Building The Perfect Machine Learning Project: Steps to follow](https://medium.com/@einsteinmunachiso/building-the-perfect-machine-learning-project-steps-to-follow-197a49650aad)
-- [The best ways to come up with DataScience projects as a beginner | intermediate.](https://medium.com/@einsteinmunachiso/the-best-ways-to-come-up-with-datascience-projects-as-a-beginner-intermediate-367e05a999f2)
 - [How to predict flight prices with Python (XGBoost, Linear Regression…)](https://medium.com/@einsteinmunachiso/how-to-predict-flight-prices-with-python-xgboost-linear-regression-be2ea731595e)
 <!-- BLOG-POST-LIST:END -->
 
