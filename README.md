@@ -1,5 +1,5 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" />
-### I'm Einstein Munachiso Ebereonwu:
+<h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /> </h1>
+<h3> I'm Einstein Munachiso Ebereonwu: </h3>
 
 - 🌱 Currently growing my DataScience skills - ML/NLP, as well as Full stack (front end with HTML, CSS and a bit of JS, Back end with python - Flask) for model integration and deployment.
 
@@ -14,13 +14,13 @@
   - I code with music almost all the time (except when facing a though bug or building/implementing complex logics 😢).
   - I have a passion for sharing acquired knowledge through basic concepts in order to make learning easier for others.
 
-### Connect with me 🤝:
+<h3> Connect with me 🤝: </h3>
 
 <a href="https://twitter.com/einsteinmuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguduabraham" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/einstein-ebereonwu-51a906167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham onyedikachi ogudu" height="30" width="40" /></a>
 
 
-### Languages and Tools 👨‍💻:
+<h3> Languages and Tools 👨‍💻: </h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -33,15 +33,13 @@
 
 ---
 
-### 📕 Latest Articles For You 📕
+<h3> 📕 Latest Articles For You 📕 </h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [Web Scraping with MS Excel and Python: Static Site Contents.](https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85)
-- [Building The Perfect Machine Learning Project: Steps to follow](https://medium.com/@einsteinmunachiso/building-the-perfect-machine-learning-project-steps-to-follow-197a49650aad)
-- [How to predict flight prices with Python (XGBoost, Linear Regression…)](https://medium.com/@einsteinmunachiso/how-to-predict-flight-prices-with-python-xgboost-linear-regression-be2ea731595e)
-<!-- BLOG-POST-LIST:END -->
+- <a href= "https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85" target= "_blank">Web Scraping with MS Excel and Python: Static Site Contents.</a>
+- <a href="https://medium.com/@einsteinmunachiso/building-the-perfect-machine-learning-project-steps-to-follow-197a49650aad" target="_blank">Building The Perfect Machine Learning Project: Steps to follow</a>
+- <a href="https://medium.com/@einsteinmunachiso/how-to-predict-flight-prices-with-python-xgboost-linear-regression-be2ea731595e" target="_blank">How to predict flight prices with Python (XGBoost, Linear Regression…)</a> 
 
-➡️ [more articles...](https://medium.com/@einsteinmunachiso)
+➡️ <a href="https://medium.com/@einsteinmunachiso" target="_blank">more articles...</a>
 
 ---
 
