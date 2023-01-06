@@ -5,7 +5,7 @@
 
 - 👯 Looking to collaborate with other DataScientists and SoftwareEngineers to build amazing solutions.
 
-- 🥅 2023 Goals: Build as much end-to-end ML projects as possible in order to learn and contribute more to the society, advance my personal and work skills.
+- 🥅 2023 Goals: Build as many end-to-end ML projects as possible in order to learn and contribute more to the society.
 
 - 📫 How to reach me [mail](mailto:einsteinmunachiso@gmail.com).
 
