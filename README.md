@@ -18,6 +18,7 @@
 
 <a href="https://twitter.com/einsteinmuna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguduabraham" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/einstein-ebereonwu-51a906167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham onyedikachi ogudu" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/#8016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8016" height="30" width="40" /></a>
 
 
 <h3> Languages and Tools 👨‍💻: </h3>
@@ -28,7 +29,7 @@
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> </a>
-<a href="https://pypi.org/project/Django/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="Django" width="40" height="40"/> </a>
+<a href="https://pypi.org/project/Django/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="85" height="40"/> </a>
 <br />
 <br />
 
