@@ -1,7 +1,7 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /> </h1>
 <h3> I'm Einstein Munachiso Ebereonwu: </h3>
 
-- 🌱 Currently growing my DataScience skills - ML/NLP, as well as Full stack (front end with HTML, CSS and a bit of JS, Back end with python - Flask) for model integration and deployment.
+- 🌱 Currently growing my DataScience skills - ML/NLP, as well as Full stack (front end with HTML, CSS and a bit of JS, Back end with python - Flask & Django) for model integration and other purposes.
 
 - 👯 Looking to collaborate with other DataScientists and SoftwareEngineers to build amazing solutions.
 
@@ -28,6 +28,7 @@
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> </a>
+<a href="https://pypi.org/project/Django/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="Django" width="40" height="40"/> </a>
 <br />
 <br />
 
@@ -35,6 +36,7 @@
 
 <h3> 📕 Latest Articles For You 📕 </h3>
 
+- <a href="https://medium.com/mlearning-ai/saving-your-machine-learning-model-in-python-pickle-dump-b01ae60a791c" target="_blank">Saving Your Machine Learning Model In Python: pickle.dump()</a>
 - <a href= "https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85" target= "_blank">Web Scraping with MS Excel and Python: Static Site Contents.</a>
 - <a href="https://medium.com/@einsteinmunachiso/building-the-perfect-machine-learning-project-steps-to-follow-197a49650aad" target="_blank">Building The Perfect Machine Learning Project: Steps to follow</a>
 - <a href="https://medium.com/@einsteinmunachiso/how-to-predict-flight-prices-with-python-xgboost-linear-regression-be2ea731595e" target="_blank">How to predict flight prices with Python (XGBoost, Linear Regression…)</a> 
