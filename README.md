@@ -37,10 +37,11 @@
 
 <h3> 📕 Latest Articles For You 📕 </h3>
 
+- <a href="https://blog.devgenius.io/building-a-simple-web-app-for-your-model-flask-html-css-dd6cbd74d1ed" target="_blank">Building A Simple Web-App For Your ML Models & More: Flask, HTML & CSS.</a>
 - <a href="https://medium.com/mlearning-ai/saving-your-machine-learning-model-in-python-pickle-dump-b01ae60a791c" target="_blank">Saving Your Machine Learning Model In Python: pickle.dump()</a>
 - <a href= "https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85" target= "_blank">Web Scraping with MS Excel and Python: Static Site Contents.</a>
 - <a href="https://medium.com/@einsteinmunachiso/building-the-perfect-machine-learning-project-steps-to-follow-197a49650aad" target="_blank">Building The Perfect Machine Learning Project: Steps to follow</a>
-- <a href="https://medium.com/@einsteinmunachiso/how-to-predict-flight-prices-with-python-xgboost-linear-regression-be2ea731595e" target="_blank">How to predict flight prices with Python (XGBoost, Linear Regression…)</a> 
+ 
 
 ➡️ <a href="https://medium.com/@einsteinmunachiso" target="_blank">more articles...</a>
 
