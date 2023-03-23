@@ -24,6 +24,9 @@
 <h3> Languages and Tools 👨‍💻: </h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78413685/227274666-e4a4a0a0-1aaf-4175-aa9e-7a59d2eb04a8.jpg" alt="sklearn" width="60" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78413685/227273591-3a4f180c-ff0b-4e39-960b-cd16865e3dfb.jpeg" alt="tensorflow" width="90" height="45"/> </a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78413685/227272284-7c9e6347-e553-4aa3-8f4d-8b35dbe391c0.jpeg" alt="keras" width="100" height="35"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://github.com/munas-git" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="github" width="40" height="40"/> </a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -32,6 +35,7 @@
 <a href="https://pypi.org/project/Django/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="85" height="40"/> </a>
 <br />
 <br />
+
 
 ---
 
