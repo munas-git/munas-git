@@ -32,19 +32,19 @@
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/munas-git/munas-git/assets/78413685/41a112ea-6cd1-47e4-9532-c1f082a9ad5f" alt="FAST API" width="90" height="45"/> </a>
 <a href="https://pypi.org/project/Django/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="85" height="40"/> </a>
 <br />
 <br />
-
 
 ---
 
 <h3> 📕 Latest Articles For You 📕 </h3>
 
+- <a href="https://medium.com/@einsteinmunachiso/building-an-ai-chatbot-in-python-retrieval-based-chatbot-9c6c7f3ef6bf" target="_blank">An exposé on Retrieval-Based ChatBot.</a>
 - <a href="https://blog.devgenius.io/building-a-simple-web-app-for-your-model-flask-html-css-dd6cbd74d1ed" target="_blank">Building A Simple Web-App For Your ML Models & More: Flask, HTML & CSS.</a>
 - <a href="https://medium.com/mlearning-ai/saving-your-machine-learning-model-in-python-pickle-dump-b01ae60a791c" target="_blank">Saving Your Machine Learning Model In Python: pickle.dump()</a>
 - <a href= "https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85" target= "_blank">Web Scraping with MS Excel and Python: Static Site Contents.</a>
-- <a href="https://medium.com/@einsteinmunachiso/building-the-perfect-machine-learning-project-steps-to-follow-197a49650aad" target="_blank">Building The Perfect Machine Learning Project: Steps to follow</a>
  
 
 ➡️ <a href="https://medium.com/@einsteinmunachiso" target="_blank">more articles...</a>
