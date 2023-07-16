@@ -1,7 +1,7 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /> </h1>
 <h3> I'm Einstein Munachiso Ebereonwu: </h3>
 
-- 🌱 Currently growing my DataScience skills - ML/DL, NLP, computer vision as well as Full stack (front end with HTML, CSS and a bit of JS, Back end with python - Flask & Django) for model integration and other purposes.
+- 🌱 Currently growing my DataScience skills, especially: Deep Learning for computer vision (CNNs).
 
 - 👯 Looking to collaborate with other DataScientists and SoftwareEngineers to build amazing solutions.
 
