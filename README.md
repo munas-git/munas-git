@@ -5,10 +5,12 @@
 
 - 👯 Looking to collaborate with other DataScientists and SoftwareEngineers to build amazing solutions.
 
-- 🥅 2024 Goals: Build as many end-to-end ML projects as possible in order to learn and contribute more to the society.
-
 - 📫 How to reach me [mail](mailto:einsteinmunachiso@gmail.com).
-
+- 2025 Goals:
+  - Publish at least one research paper.
+  - Data Scientist/MachineLearning Engineer job by January 2025.
+  - Contribute to [Microsoft Azure Code repository](https://github.com/Azure-Samples).
+  - Become multi-Azure certified (AI Associate & Data Engineering cert).
 - ⚡ Fun facts:
   - I'm constantly learning from others and using such new knowledge to work better on myself and projects.
   - I code with music almost all the time (except when facing a though bug or building/implementing complex logics 😢).
