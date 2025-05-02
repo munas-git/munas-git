@@ -1,19 +1,45 @@
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /></h2>
 <h3> I'm Einstein: </h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munas-git&label=Profile%20views&color=6aacd7&style=plastic" alt="muna" /> </p> -->
-- 🌱 Currently growing my data science skills, especially: Traditional Machine Learning & Generative AI.
 
-- 👯 Looking to collaborate with other data scientists and software engineers to build excellent solutions.
+- 🌱 Currently focused on **Propensity Modeling**, **Statistical Inference**, and **Generative AI** applications.
+- 🎯 Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimization**, and **customer segmentation**.
+- 👯 Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**.
+- 📫 Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com)
 
-- 📫 How to reach me [mail](mailto:einsteinmunachiso@gmail.com).
-- 2025 Goals:
-  - Publish at least one research paper.
-  - Contribute to [Microsoft Azure Code repository](https://github.com/Azure-Samples).
-  - Become multi-Azure certified (AI Associate & Data Engineering cert).
-- ⚡ Fun facts:
-  - I'm constantly learning from others and using such new knowledge to work better on myself and my projects.
-  - I code with music almost all the time (except when facing a tough bug or building/implementing complex logic 😢).
-  - I have a passion for sharing acquired knowledge through basic concepts to make learning easier for others.
+---
+
+### 📊 What I Work On
+**📌 Propensity Modeling**  
+Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated classifiers to estimate probabilities of user actions such as:
+- 🛒 Purchase or conversion (e.g., subscription to financial products)
+- 💔 Churn risk prediction
+- 🎯 Targeted marketing response likelihood
+- 🎁 A/B test targeting for uplift modeling
+
+**📌 Statistics for Real-World Impact**
+- Hypothesis testing & confidence intervals for campaign performance
+- Bayesian inference for small sample corrections
+- Causal inference (e.g., Average Treatment Effect for experiment design)
+- Model calibration (e.g., Platt scaling, isotonic regression)
+
+**📌 GenAI & LLMs**
+- Summarisation of long-form transcripts (e.g., meetings, user calls)
+- Smart chatbots for lead qualification & feedback collection
+- RAG systems using LangChain + OpenAI for context-aware insights
+
+---
+
+### 🎯 2025 Goals
+- 📄 Publish a research paper in applied ML or statistics
+- 📈 Help others be more comfortable with statistics by building projects on uplift modelling, churn prediction and more while talking about them online and in person
+
+---
+
+### ⚡ Fun Facts
+- I love making complex topics in ML/stats feel intuitive and practical.
+- I usually code with music on—unless debugging some stubborn pipeline 😅.
+- I believe in learning out loud and sharing simplified insights with the community.
 
 <h3> Connect with me 🤝: </h3>
 <a href="https://x.com/einsteinmuna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/b45037d6-de2c-42ce-8128-a219f59fee40" alt="einsteinmuna" height="40" width="40" /></a>
