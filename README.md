@@ -38,7 +38,7 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 
 ### ⚡ Fun Facts
 - I love making complex topics in ML/stats feel intuitive and practical.
-- I usually code with music on—unless debugging some stubborn pipeline 😅.
+- I usually code with music on, unless debugging some stubborn issue 😅.
 - I believe in learning out loud and sharing simplified insights with the community.
 
 <h3> Connect with me 🤝: </h3>
