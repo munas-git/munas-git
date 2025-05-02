@@ -2,8 +2,8 @@
 <h3> I'm Einstein: </h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munas-git&label=Profile%20views&color=6aacd7&style=plastic" alt="muna" /> </p> -->
 
-- 🌱 Currently focused on **Propensity Modeling**, **Statistical Inference**, and **Generative AI** applications.
-- 🎯 Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimization**, and **customer segmentation**.
+- 🌱 Currently focused on **Propensity Modeling**, **Statistical Inference (including bayesian modelling)**, and **Generative AI** applications.
+- 🎯 Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimisation**, and **customer segmentation**.
 - 👯 Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**.
 - 📫 Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com)
 
@@ -15,7 +15,7 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 - 🛒 Purchase or conversion (e.g., subscription to financial products)
 - 💔 Churn risk prediction
 - 🎯 Targeted marketing response likelihood
-- 🎁 A/B test targeting for uplift modeling
+- 🎁 A/B test targeting for uplift modelling
 
 **📌 Statistics for Real-World Impact**
 - Hypothesis testing & confidence intervals for campaign performance
