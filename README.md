@@ -2,9 +2,9 @@
 <h3> I'm Einstein: </h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munas-git&label=Profile%20views&color=6aacd7&style=plastic" alt="muna" /> </p> -->
 
-- 🌱 Currently focused on **Propensity Modeling**, **Statistical Inference (including bayesian modelling)**, and **Generative AI** applications.
-- 🎯 Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimisation**, and **customer segmentation**.
-- 👯 Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**.
+- 🌱 Currently focused on **Propensity Modeling**, **Statistical Inference (including bayesian modelling)**, and **Generative AI** applications
+- 🎯 Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimisation**, and **customer segmentation**
+- 👯 Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**
 - 📫 Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com)
 
 ---
@@ -37,9 +37,9 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 ---
 
 ### ⚡ Fun Facts
-- I love making complex topics in ML/stats feel intuitive and practical.
-- I usually code with music on, unless debugging some stubborn issue 😅.
-- I believe in learning out loud and sharing simplified insights with the community.
+- I love making complex topics in ML/stats feel intuitive and practical
+- I usually code with music on, unless debugging some stubborn issue 😅
+- I believe in learning out loud and sharing simplified insights with the community
 
 <h3> Connect with me 🤝: </h3>
 <a href="https://x.com/einsteinmuna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/b45037d6-de2c-42ce-8128-a219f59fee40" alt="einsteinmuna" height="40" width="40" /></a>
@@ -67,11 +67,11 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 
 <h3> 🔥📕 Latest Articles For You 📕🔥 </h3>
 
-- <a href="https://medium.com/@wetrocloud/embeddings-in-ai-machine-learning-a-deep-dive-into-plagiarism-detection-with-wetrocloud-e5854eb6ac47">Embeddings in AI & Machine Learning: A Deep Dive into Plagiarism Detection with Wetrocloud.</a>
+- <a href="https://medium.com/@wetrocloud/embeddings-in-ai-machine-learning-a-deep-dive-into-plagiarism-detection-with-wetrocloud-e5854eb6ac47">Embeddings in AI & Machine Learning: A Deep Dive into Plagiarism Detection with Wetrocloud</a>
 - <a href="https://medium.com/@einsteinmunachiso/rest-api-implementation-in-python-for-model-deployment-flask-and-fastapi-e80a6cedff86">REST API Implementation in Python for Model Deployment: Flask and FastAPI.</a>
 - <a href="https://medium.com/mlearning-ai/saving-your-machine-learning-model-in-python-pickle-dump-b01ae60a791c">Saving Your Machine Learning Model In Python: pickle.dump()</a>
-- <a href= "https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85">Web Scraping with MS Excel and Python: Static Site Contents.</a>
-- <a href="https://medium.com/@einsteinmunachiso/building-an-ai-chatbot-in-python-retrieval-based-chatbot-9c6c7f3ef6bf">An exposé on Retrieval-Based ChatBot.</a>
+- <a href= "https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85">Web Scraping with MS Excel and Python: Static Site Contents</a>
+- <a href="https://medium.com/@einsteinmunachiso/building-an-ai-chatbot-in-python-retrieval-based-chatbot-9c6c7f3ef6bf">An exposé on Retrieval-Based ChatBot</a>
  
 
 ➡️ <a href="https://medium.com/@einsteinmunachiso" target="_blank">more articles...</a>
