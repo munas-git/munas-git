@@ -1,8 +1,8 @@
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /></h2>
-<h3> I'm Einstein: </h3>
+<h3> I'm Einstein (Currently open to new roles): </h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munas-git&label=Profile%20views&color=6aacd7&style=plastic" alt="muna" /> </p> -->
 
-- 🌱 Currently focused on **Propensity Modeling**, **Statistical Inference (including bayesian modelling)**, and **Generative AI** applications
+- 🌱 I'm focused on **Propensity Modeling**, **Statistical Inference (including bayesian modelling)**, and **Generative AI** applications
 - 🎯 Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimisation**, and **customer segmentation**
 - 👯 Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**
 - 📫 Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com)
