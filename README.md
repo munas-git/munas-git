@@ -19,7 +19,7 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 
 **📌 Statistics for Real-World Impact**
 - Hypothesis testing & confidence intervals for campaign performance
-- Bayesian inference for small sample corrections
+- Counterfactual analysis to estimate what would have happened under different circumstances
 - Causal inference (e.g., Average Treatment Effect for experiment design)
 - Model calibration (e.g., Platt scaling, isotonic regression)
 
