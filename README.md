@@ -1,5 +1,6 @@
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /></h2>
-<h3> I'm Einstein (Currently open to new roles): </h3>
+<h3> I'm Einstein (Currently open to new roles) - <a href="https://drive.google.com/file/d/1GHRHK9UJ4XgjFGaoqSKJCnMwDVSc0PN3/view?usp=sharing)">Résumé PDF</a></h3>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munas-git&label=Profile%20views&color=6aacd7&style=plastic" alt="muna" /> </p> -->
 
 - 🌱 I'm focused on **Propensity Modeling**, **Statistical Inference**, and **Generative AI** applications
