@@ -29,6 +29,14 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 - Smart chatbots for lead qualification & feedback collection
 - RAG systems using LangChain + OpenAI for context-aware insights
 
+**📌 Time Series Forecasting & Optimisation**
+- Classical models: ARIMA, SARIMA, and Exponential Smoothing
+- Working with additive & multiplicative decompositions to model seasonal, trend, and irregular components
+- Feature engineering with lag variables, rolling stats, and calendar effects
+- ML/Deep Learning approaches: Facebook Prophet, Neural Prophet, XGBoost, LSTM
+- Forecasting for metrics like demand, churn over time, marketing ROI, etc.
+- Parameter tuning via grid search/CV, AIC/BIC selection for AR terms (AR, MA, ARMA)
+
 ---
 
 ### 🎯 2025 Goals
