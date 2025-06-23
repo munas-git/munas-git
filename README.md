@@ -13,29 +13,29 @@
 ### 📊 What I Work On
 **📌 Propensity Modeling**  
 Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated classifiers to estimate probabilities of user actions such as:
-- 🛒 Purchase or conversion (e.g., subscription to financial products)
-- 💔 Churn risk prediction
-- 🎯 Targeted marketing response likelihood
-- 🎁 A/B test targeting for uplift modelling
+- Churn risk prediction.
+- A/B test targeting for uplift modelling.
+- Targeted marketing response likelihood.
+- Purchase or conversion (e.g., subscription to financial products).
 
 **📌 Statistics for Real-World Impact**
-- Hypothesis testing & confidence intervals for campaign performance
-- Counterfactual analysis to estimate what would have happened under different circumstances
-- Causal inference (e.g., Average Treatment Effect for experiment design)
-- Model calibration (e.g., Platt scaling, isotonic regression)
-
-**📌 GenAI & LLMs**
-- Summarisation of long-form transcripts (e.g., meetings, user calls)
-- Smart chatbots for lead qualification & feedback collection
-- RAG systems using LangChain + OpenAI for context-aware insights
+- Model calibration (e.g., Platt scaling, isotonic regression).
+- Hypothesis testing & confidence intervals for campaign performance.
+- Causal inference (e.g., Average Treatment Effect for experiment design).
+- Counterfactual analysis to estimate what would have happened under different circumstances.
 
 **📌 Time Series Forecasting & Optimisation**
-- Classical models: ARIMA, SARIMA, and Exponential Smoothing
-- Working with additive & multiplicative decompositions to model seasonal, trend, and irregular components
-- Feature engineering with lag variables, rolling stats, and calendar effects
-- ML/Deep Learning approaches: Facebook Prophet, Neural Prophet, XGBoost, LSTM
+- Classical models: ARIMA, SARIMA, and Exponential Smoothing.
+- Feature engineering with lag variables, rolling stats, and calendar effects.
 - Forecasting for metrics like demand, churn over time, marketing ROI, etc.
-- Parameter tuning via grid search/CV, AIC/BIC selection for AR terms (AR, MA, ARMA)
+- ML/Deep Learning approaches: Facebook Prophet, Neural Prophet, XGBoost, LSTM.
+- Parameter tuning via grid search/CV, AIC/BIC selection for AR terms (AR, MA, ARMA).
+- Working with additive & multiplicative decompositions to model seasonal, trend, and irregular components.
+
+**📌 GenAI & LLMs**
+- Smart chatbots for lead qualification & feedback collection
+- Summarisation of long-form transcripts (e.g., meetings, user calls)
+- RAG systems using LangChain + OpenAI for context-aware insights
 
 ---
 
