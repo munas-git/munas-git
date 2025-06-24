@@ -5,14 +5,14 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munas-git&label=Profile%20views&color=6aacd7&style=plastic" alt="muna" /> </p> -->
 
-- 🌱 I'm focused on **Propensity Modeling**, **Statistical Inference**, and **Generative AI** applications
-- 🎯 Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimisation**, and **customer segmentation**
-- 👯 Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**
-- 📫 Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com)
+- I specialize in **Statistical Inference**, with strong expertise in **Propensity Modeling**, **Time Series Forecasting**, and practical applications of **Generative AI**.
+- Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimization**, **demand forecasting**, and **customer segmentation**.
+- Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**.
+- Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com)
 
 ---
 
-### 📊 What I Work On
+### What I Work On
 **📌 Propensity Modeling**  
 Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated classifiers to estimate probabilities of user actions such as:
 - Churn risk prediction.
@@ -42,23 +42,23 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 ---
 
 ### 🎯 2025 Goals
-- 📄 Publish a research paper in applied ML or statistics
-- 📈 Help others be more comfortable with statistics by building projects on uplift modelling, churn prediction and more while talking about them online and in person
+- Publish a research paper in applied ML or statistics
+- Help others be more comfortable with statistics by building projects on uplift modelling, churn prediction and more while talking about them online and in person
 
 ---
 
-### ⚡ Fun Facts
+### Fun Facts
 - I love making complex topics in ML/stats feel intuitive and practical
 - I usually code with music on, unless debugging some stubborn issue 😅
 - I believe in learning out loud and sharing simplified insights with the community
 
 <h3> Connect with me 🤝: </h3>
 <a href="https://x.com/einsteinmuna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/b45037d6-de2c-42ce-8128-a219f59fee40" alt="einsteinmuna" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/einstein-ebereonwu-51a906167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Einstein Ebereonwu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/einstein-ebereonwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Einstein Ebereonwu" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/#8016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8016" height="30" width="40" /></a>
 
 
-<h3> Languages and Tools 👨‍💻: </h3>
+<h3> Languages and Tools: </h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78413685/227274666-e4a4a0a0-1aaf-4175-aa9e-7a59d2eb04a8.jpg" alt="sklearn" width="60" height="40"/> </a>
