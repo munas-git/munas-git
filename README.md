@@ -74,7 +74,7 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 <br />
 <br />
 
----
+<!-- ---
 
 <h3> 🔥📕 Latest Articles For You 📕🔥 </h3>
 
@@ -83,10 +83,11 @@ Using logistic regression, tree-based models (XGBoost, LightGBM), and calibrated
 - <a href="https://medium.com/mlearning-ai/saving-your-machine-learning-model-in-python-pickle-dump-b01ae60a791c">Saving Your Machine Learning Model In Python: pickle.dump()</a>
 - <a href= "https://medium.com/@einsteinmunachiso/web-scraping-with-ms-excel-and-python-static-site-contents-4903ea08b85">Web Scraping with MS Excel and Python: Static Site Contents</a>
 - <a href="https://medium.com/@einsteinmunachiso/building-an-ai-chatbot-in-python-retrieval-based-chatbot-9c6c7f3ef6bf">An exposé on Retrieval-Based ChatBot</a>
- 
+
 
 ➡️ <a href="https://medium.com/@einsteinmunachiso" target="_blank">more articles...</a>
 
 ---
+ -->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munas-git&show_icons=true&locale=en" alt="munas-git" /></p>––> 
