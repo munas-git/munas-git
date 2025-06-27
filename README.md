@@ -1,7 +1,8 @@
-<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /></h2>
-<h3> I'm Einstein (Currently open to new roles) - 
+<!-- <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /></h2> -->
+
+<h2> Hi, I'm Einstein (Currently open to new roles) - 
  <a href="https://drive.google.com/file/d/1GHRHK9UJ4XgjFGaoqSKJCnMwDVSc0PN3/view?usp=sharing">Résumé PDF</a> | 
- <a href="https://drive.google.com/file/d/1LC_QECg-1Bg_csEs2S7X__bW1C4CFsHz/view?usp=sharing">Cover Letter</a></h3>
+ <a href="https://drive.google.com/file/d/1LC_QECg-1Bg_csEs2S7X__bW1C4CFsHz/view?usp=sharing">Cover Letter</a></h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=munas-git&label=Profile%20views&color=6aacd7&style=plastic" alt="muna" /> </p> -->
 
