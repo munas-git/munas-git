@@ -36,7 +36,7 @@ I build and apply predictive models using logistic regression, tree-based method
 - Decomposing time series into seasonal, trend, and irregular components using additive and multiplicative models  
 
 **📌 GenAI & LLMs**
--Summarizing long-form transcripts such as meetings and user calls
+- Summarizing long-form transcripts such as meetings and user calls
 - Developing smart chatbots for lead qualification and feedback collection    
 - Building Retrieval-Augmented Generation (RAG) systems with LangChain and OpenAI for context-aware insights  
 
