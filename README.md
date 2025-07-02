@@ -11,7 +11,7 @@
 - Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**
 - Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com)
 
----
+<!-- ---
 
 ### What I Work On
 **📌 Propensity Modeling**  
@@ -91,7 +91,7 @@ I build and apply predictive models using logistic regression, tree-based method
 
 ➡️ <a href="https://medium.com/@einsteinmunachiso" target="_blank">more articles...</a>
 
----
+--- 
  -->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munas-git&show_icons=true&locale=en" alt="munas-git" /></p>––> 
