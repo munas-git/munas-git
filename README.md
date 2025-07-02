@@ -7,4 +7,4 @@
 - I specialize in **Statistical Inference**, with strong expertise in **Propensity Modeling**, **Time Series Forecasting**, and practical applications of **Generative AI**
 - Skilled in using data to drive insights, especially in **churn prediction**, **conversion optimization**, **demand forecasting**, and **customer segmentation**
 - Always looking to collaborate on data science projects involving **machine learning**, **NLP**, and **applied statistics**
-- Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com)
+- Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu/).
