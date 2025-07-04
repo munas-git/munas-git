@@ -10,5 +10,5 @@
    - **Conversion Optimization** (A/B Testing and Experimentation, Funnel Drop-off Analysis, Personalized Recommendations)
    - **Customer Segmentation** (Behavioral Clustering, Demographic Grouping, Targeted Campaign Design, Lifetime Value Grouping)
    - **Churn Prevention** (Cross-sell, Upsell, Price Optimization, Lifetime Value Prediction, Retention Modeling, Early Warning Systems)
-- Always looking to collaborate on data science projects involving **machine learning**, **Natural Language Processing `(NLP, NLU, RAGs)`**, and **applied statistics**
+- Always looking to collaborate on data science projects involving **machine learning**, **Natural Language Processing** `(NLP, NLU, RAGs)`
 - Reach me: [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu/).
