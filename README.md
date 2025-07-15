@@ -1,6 +1,6 @@
-<h2>Hi, I'm Einstein (Currently open to new roles); 
- <a href="https://drive.google.com/file/d/1GHRHK9UJ4XgjFGaoqSKJCnMwDVSc0PN3/view?usp=sharing">Résumé PDF</a> | 
- <a href="https://drive.google.com/file/d/1LC_QECg-1Bg_csEs2S7X__bW1C4CFsHz/view?usp=sharing">Cover Letter</a></h2>
+<h2>Hi, I'm Einstein (Currently open to new roles) | 
+ <a href="https://drive.google.com/file/d/1GHRHK9UJ4XgjFGaoqSKJCnMwDVSc0PN3/view?usp=sharing">Résumé PDF</a>
+ </h2>
 
 - I’m a versatile Data Scientist who helps businesses make better, faster, and more confident decisions through data, from dashboards to forecasting, machine learning to GenAI.
 - I’ve delivered value across industries through projects involving:
