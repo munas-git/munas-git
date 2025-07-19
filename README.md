@@ -13,7 +13,7 @@ I’ve delivered value across industries through projects involving:
 - **Computer Vision**: Developed image classification and object detection models for quality control and visual inspection use cases
 - **Generative AI**: Built domain-specific chatbots and retrieval-augmented generation (RAG) systems using LLMs for internal knowledge access and workflow automation
 
-I’m comfortable using a wide range of tools including; Excel, Power BI, SQL, Python, Scikit-Learn, Streamlit, LangChain, Azure, and I adapt quickly to new domains and challenges.   
+I’m comfortable using a wide range of tools including; `Excel`, `Power BI`, `SQL`, `Python`, `Scikit-Learn`, `Streamlit`, `LangChain`, `Azure`, and I adapt quickly to new domains and challenges.   
 
 Open to roles in **analytics, business intelligence, product data, or applied machine learning**. Anywhere data meets business decisions.   
 
