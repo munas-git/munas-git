@@ -11,7 +11,7 @@ I’ve delivered value across industries through projects involving:
 - **Experimentation & Testing**: Funnel analysis, A/B testing frameworks, campaign performance insights
 - **Business Intelligence & Ad-hoc Analysis**: Executive dashboards, root cause analysis, stakeholder-ready visuals
 - **Computer Vision**: Developed image classification and object detection models for quality control and visual inspection use cases
-- **Generative AI**: Built domain-specific chatbots and retrieval-augmented generation (RAG) systems using LLMs for internal knowledge access and workflow automation
+- **Generative AI**: Built domain-specific chatbots and retrieval-augmented generation (RAG) systems using LLMs, vector databases, and advanced propmt engineering for internal knowledge access and workflow automation
 
 I’m comfortable using a wide range of tools including; `Excel`, `Power BI`, `SQL`, `Python`, `Scikit-Learn`, `Streamlit`, `LangChain`, `Azure`, and I adapt quickly to new domains and challenges.   
 
