@@ -1,6 +1,6 @@
 <h2>
  Hi, I'm Einstein (Open to new roles) | 
- <a href="https://drive.google.com/file/d/1GHRHK9UJ4XgjFGaoqSKJCnMwDVSc0PN3/view?usp=sharing">Résumé</a>
+ <a href="https://drive.google.com/file/d/1mWeiOEDUR9WJjh41UKbJZsnutj6MC3vv/view?usp=sharing">Résumé</a>
 </h2>
 
 A versatile Data Scientist who helps businesses make better, faster, and more confident decisions through data, from dashboards to forecasting, machine learning to GenAI.
