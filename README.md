@@ -4,7 +4,7 @@
 </h2>
 
 A versatile Data Scientist who helps businesses make better, faster, and more confident decisions through data, from dashboards to forecasting, machine learning to GenAI.
-I’ve delivered value across industries through projects involving:   
+I’ve delivered, and continue to deliver value across industries through projects involving:   
 
 - **Planning & Forecasting**: Inventory optimization, supply planning, and demand modeling
 - **Operational Monitoring**: Real-time KPI dashboards, alert systems, and anomaly detection
