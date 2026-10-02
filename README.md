@@ -13,4 +13,4 @@ I deliver value across industries through projects involving:
 
 I’m comfortable using a wide range of tools including; `Excel`, `Power BI`, `SQL`, `Python`, `Scikit-Learn`, `Streamlit`, `LangChain`, `Azure`. I adapt quickly to new domains and challenges, staying up to date with the latest in data and AI.   
 
-> Let’s connect :) [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com) | [linkedin.com/in/einstein-ebereonwu](https://www.linkedin.com/in/einstein-ebereonwu/) | [X f.k.a Twitter @einsteinmuna](https://x.com/einsteinmuna)
+> Let’s connect :) [einsteinmunachiso@gmail.com](mailto:einsteinmunachiso@gmail.com) | [linkedin.com/in/einstein-ebereonwu](https://www.linkedin.com/in/einstein-ebereonwu/)
